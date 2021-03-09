@@ -5,5 +5,6 @@ Para realização dos métodos, foi feito uma classe para mineração de dados d
 Para os programas em Java foi usado a biblioteca MyIO, com o intuito de auxiliar nas entradas. A biblioteca foi feita por Max do Val Machado.
 
 # 
-| --- | 
+|Execução|
+| --- |
 | ![sample V1](https://i.imgur.com/aWG2JjO.gif) |
