@@ -7,4 +7,4 @@ Para os programas em Java foi usado a biblioteca MyIO, com o intuito de auxiliar
 # 
 |Execução|
 | --- |
-| ![sample V1](https://i.imgur.com/aWG2JjO.gif) |
+| ![sample Execução](https://i.imgur.com/aWG2JjO.gif) |
