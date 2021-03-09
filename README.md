@@ -7,4 +7,4 @@ Para os programas em Java foi usado a biblioteca MyIO, com o intuito de auxiliar
 # 
 |V1|V2|
 | --- | --- |
-| ![sample V1](https://imgur.com/a/f1AXIiH) | ![sample V2](https://imgur.com/a/f1AXIiH) |
+| ![sample V1](https://imgur.com/Y6aiHrN) |
